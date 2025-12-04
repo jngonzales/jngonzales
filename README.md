@@ -1,4 +1,4 @@
-# Hi, I'm JN Noel Gonzales 👋
+# Hi, I'm JN Gonzales 👋
 
 Full‑stack developer turning ideas into clean, responsive web apps.
 
