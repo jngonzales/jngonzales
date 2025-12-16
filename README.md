@@ -26,7 +26,6 @@ Full‑stack developer turning ideas into clean, responsive web apps.
 
 ## GitHub Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jngonzales&show_icons=true&locale=en&theme=radical" alt="jngonzales" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jngonzales&theme=radical" alt="jngonzales" />
 </p>
 <p align="center">
