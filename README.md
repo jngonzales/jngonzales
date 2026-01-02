@@ -24,19 +24,6 @@ Full‑stack developer turning ideas into clean, responsive web apps.
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## GitHub Stats
-<div align="center"> 
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr align="center">
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jngonzales&theme=radical" alt="jngonzales' Contribution Streak" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jngonzales&layout=compact&locale=en&theme=radical" alt="jngonzales' Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## What I Build
 
