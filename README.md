@@ -5,7 +5,7 @@ Full‑stack developer turning ideas into clean, responsive web apps.
 ## About Me
 
 - 🔭 Currently working as a **Freelance Full‑Stack Developer**
-- 🎓 BS Computer Science background
+- 🎓 Harvard Certified in Computer Science
 - 💼 Former **Amazon Risk & Concession Abuse Specialist** — ranked #2 out of 1,000+ agents
 - 📍 Based in Imus, Cavite, Philippines
 - ⚡ I learn fast, ship clean code, and sweat the details
