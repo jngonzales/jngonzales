@@ -148,12 +148,6 @@ AI development interests: LLM integrations, AI agents, tool calling, RAG pipelin
 - 🔄 Business process automation and API-driven workflows.
 - 📊 Data-driven dashboards, internal tools, and management systems.
 
-## 📈 GitHub Activity
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jngonzales&show_icons=true&hide_border=true&theme=transparent)](https://github.com/jngonzales)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jngonzales&layout=compact&hide_border=true&theme=transparent)](https://github.com/jngonzales)
-
 ## 🤝 Let's Connect
 
 I'm always open to interesting projects, collaborations, and opportunities.
