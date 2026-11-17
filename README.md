@@ -15,6 +15,16 @@ I enjoy turning complex ideas into practical, high-quality software with a focus
 - ⚡ Passionate about full-stack engineering, AI-powered applications, automation, and emerging technologies.
 - 🎯 Always exploring better ways to build, optimize, and scale software.
 
+## 💡 What I Build
+
+- 🌐 Responsive websites, landing pages, and modern web applications.
+- ⚙️ Full-stack applications, dashboards, and SaaS platforms.
+- 🛒 E-commerce stores, storefronts, and Shopify integrations.
+- 🔌 REST APIs, backend services, and third-party integrations.
+- 🤖 AI-powered applications, LLM integrations, and intelligent agents.
+- 🔄 Business process automation and API-driven workflows.
+- 📊 Data-driven dashboards, internal tools, and management systems.
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -137,16 +147,6 @@ AI development interests: LLM integrations, AI agents, tool calling, RAG pipelin
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
 ![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat&logo=strapi&logoColor=white)
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
-
-## 💡 What I Build
-
-- 🌐 Responsive websites, landing pages, and modern web applications.
-- ⚙️ Full-stack applications, dashboards, and SaaS platforms.
-- 🛒 E-commerce stores, storefronts, and Shopify integrations.
-- 🔌 REST APIs, backend services, and third-party integrations.
-- 🤖 AI-powered applications, LLM integrations, and intelligent agents.
-- 🔄 Business process automation and API-driven workflows.
-- 📊 Data-driven dashboards, internal tools, and management systems.
 
 ## 🤝 Let's Connect
 
